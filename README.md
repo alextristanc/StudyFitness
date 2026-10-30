@@ -78,8 +78,8 @@ ProyectoStudyFitness/
 ---
 ## 👥 Miembros del equipo
 
-**Jamil Abraham Rivera Acosta** 
-**Diego Moreno Rivera** 
+**Jamil Abraham Rivera Acosta** -
+**Diego Moreno Rivera** -
 **David Alejandro Tristán Contreras**
 
 ---
